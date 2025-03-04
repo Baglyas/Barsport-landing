@@ -16,8 +16,7 @@ A modern, interactive **landing page** for the **Barsport** app, built using **F
 ## **🛠️ Tech Stack**  
 - **Framework:** Flutter (Dart)  
 - **UI:** Material 3, Custom Animations  
-- **State Management:** [Specify if using Provider, Riverpod, Bloc, etc.]  
-- **Routing:** [Specify if using GoRouter, Navigator 2.0, etc.]  
+- **State Management:** Riverpod 
 
 ---
 
