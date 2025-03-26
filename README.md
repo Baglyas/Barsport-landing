@@ -24,7 +24,3 @@ A modern, interactive **landing page** for the **Barsport** app, built using **F
 This landing page serves as a **promotional website** for the **Barsport app**, designed to **attract users, explain features, and provide a seamless introduction** to the platform.  
 
 It highlights **tournaments, matches, leaderboards, and sports-related events**, making it an essential entry point for both new and returning users.  
-
----
-
-Would you like sections for **installation, setup, or deployment** instructions? 🚀  
